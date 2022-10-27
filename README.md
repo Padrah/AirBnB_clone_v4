@@ -160,8 +160,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Second part of Airbnb: Joann Vuong
 
 Third part of Airbnb:
-Ekene Okoli - [Github](https://github.com/khennyyb) / [Twitter](https://twitter.com/khennyy__)
-Okpara Onyedikachi - [Github](https://github.com/khennyyb)
+	- Ekene Okoli - [Github](https://github.com/khennyyb) / [Twitter](https://twitter.com/khennyy__)
+	- Okpara Onyedikachi - [Github](https://github.com/khennyyb)
 
 ## License
 Public Domain. No copy write protection. 
